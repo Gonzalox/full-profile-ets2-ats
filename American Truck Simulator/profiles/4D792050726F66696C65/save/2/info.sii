@@ -1,0 +1,21 @@
+SiiNunit
+{
+save_container : _nameless.176.8b33.ddc0 {
+ name: "Savegame for DLC Maps"
+ time: 616
+ file_time: 1605133109
+ version: 44
+ dependencies: 10
+ dependencies[0]: "dlc|ats_arizona|DLC - Arizona"
+ dependencies[1]: "dlc|ats_int_lone|DLC - International LoneStar"
+ dependencies[2]: "dlc|ats_kw_t680|DLC - Kenworth T680"
+ dependencies[3]: "dlc|ats_kw_w900|DLC - Kenworth W900"
+ dependencies[4]: "dlc|ats_nevada|DLC - Nevada"
+ dependencies[5]: "dlc|ats_nwmexico|DLC - New Mexico"
+ dependencies[6]: "dlc|ats_oregon|DLC - Oregon"
+ dependencies[7]: "dlc|ats_pb_389|DLC - Peterbilt 389"
+ dependencies[8]: "dlc|ats_pb_579|DLC - Peterbilt 579"
+ dependencies[9]: "dlc|ats_volvo_vnl|DLC - Volvo VNL"
+}
+
+}

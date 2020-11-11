@@ -1,0 +1,15 @@
+SiiNunit
+{
+save_container : _nameless.1d6.e18c.35e0 {
+ name: "Savegame for DLC Maps"
+ time: 609
+ file_time: 1591918731
+ version: 45
+ dependencies: 4
+ dependencies[0]: "dlc|eut2_east|DLC - Going East!"
+ dependencies[1]: "dlc|eut2_fr|DLC - Vive la France !"
+ dependencies[2]: "dlc|eut2_it|DLC - Italia"
+ dependencies[3]: "dlc|eut2_north|DLC - Scandinavia"
+}
+
+}
