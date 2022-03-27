@@ -13,7 +13,7 @@ Go to your game "profiles" folder which by default in Windows is located at
 * **ETS2**:  This PC -> Documents -> **Euro Truck Simulator 2** -> profiles
 * **ATS**: This PC -> Documents -> **American Truck Simulator** -> profiles
 
-Download the lastest release from here: https://github.com/Gonzalox/full-profile-ets2-ats/releases
+Download the lastest release from here: https://github.com/Gonzalox/full-profile-ets2-ats/archive/refs/heads/master.zip
 
 In the file you downloaded there will be the folder "**4D792050726F66696C65**"
 * Euro Truck Simulator 2\profiles\4D792050726F66696C65
