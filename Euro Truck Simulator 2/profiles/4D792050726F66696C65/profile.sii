@@ -1,6 +1,6 @@
 SiiNunit
 {
-user_profile : _nameless.193.01e4.c890 {
+user_profile : _nameless.1de.0f29.fa50 {
  face: 90
  brand: scania_r
  map_path: "/map/europe.mbd"
@@ -14,15 +14,15 @@ user_profile : _nameless.193.01e4.c890 {
  user_data[1]: ""
  user_data[2]: ""
  user_data[3]: ""
- user_data[4]: "0.000001"
+ user_data[4]: "0.000003"
  user_data[5]: 1
- user_data[6]: 17
- user_data[7]: 1
- user_data[8]: 74
+ user_data[6]: 18
+ user_data[7]: 0
+ user_data[8]: 75
  user_data[9]: 8
  user_data[10]: 2
  user_data[11]: "daf.xf"
- user_data[12]: "daf.xf:1,daf.xf_euro6:1,iveco.stralis:1,iveco.hiway:1,man.tgx:1,man.tgx_euro6:1,mercedes.actros:1,mercedes.actros2014:1,renault.premium:1,renault.t:1,renault.magnum:1,scania.streamline:1,scania.r:1,scania.r_2016:1,scania.s_2016:1,volvo.fh16:1,volvo.fh16_2012:1"
+ user_data[12]: "daf.xf:1,daf.xf_euro6:1,iveco.stralis:1,iveco.hiway:1,man.tgx:1,man.tgx_euro6:1,mercedes.actros:1,mercedes.actros2014:1,renault.premium:1,renault.t:1,renault.magnum:1,scania.streamline:1,scania.r:1,scania.r_2016:1,scania.s_2016:1,volvo.fh16:1,volvo.fh16_2012:1,daf.2021:1"
  user_data[13]: ""
  user_data[14]: 1
  user_data[15]: ""
@@ -851,12 +851,12 @@ user_profile : _nameless.193.01e4.c890 {
  cached_discovery[797]: 226
  cached_discovery[798]: 2
  cached_discovery[799]: 232
- version: 5
+ version: 6
  online_user_name: ""
  online_password: ""
  profile_name: "My Profile"
  creation_time: 1578576590
- save_time: 1591925586
+ save_time: 1648409086
 }
 
 }

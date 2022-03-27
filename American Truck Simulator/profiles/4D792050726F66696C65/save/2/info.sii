@@ -1,21 +1,34 @@
 SiiNunit
 {
-save_container : _nameless.176.8b33.ddc0 {
+save_container : _nameless.16a.4181.b3b0 {
  name: "Savegame for DLC Maps"
- time: 616
- file_time: 1605133109
- version: 44
- dependencies: 10
+ time: 621
+ file_time: 1648408337
+ version: 61
+ info_version: 1
+ dependencies: 16
  dependencies[0]: "dlc|ats_arizona|DLC - Arizona"
- dependencies[1]: "dlc|ats_int_lone|DLC - International LoneStar"
- dependencies[2]: "dlc|ats_kw_t680|DLC - Kenworth T680"
- dependencies[3]: "dlc|ats_kw_w900|DLC - Kenworth W900"
- dependencies[4]: "dlc|ats_nevada|DLC - Nevada"
- dependencies[5]: "dlc|ats_nwmexico|DLC - New Mexico"
- dependencies[6]: "dlc|ats_oregon|DLC - Oregon"
- dependencies[7]: "dlc|ats_pb_389|DLC - Peterbilt 389"
- dependencies[8]: "dlc|ats_pb_579|DLC - Peterbilt 579"
- dependencies[9]: "dlc|ats_volvo_vnl|DLC - Volvo VNL"
+ dependencies[1]: "dlc|ats_fr_c19|DLC - Freightliner Cascadia"
+ dependencies[2]: "dlc|ats_idaho|DLC - Idaho"
+ dependencies[3]: "dlc|ats_int_990i|DLC - International 9900i"
+ dependencies[4]: "dlc|ats_int_lone|DLC - International LoneStar"
+ dependencies[5]: "dlc|ats_int_lt|DLC - International LT"
+ dependencies[6]: "dlc|ats_kw_t680|DLC - Kenworth T680"
+ dependencies[7]: "dlc|ats_kw_w900|DLC - Kenworth W900"
+ dependencies[8]: "dlc|ats_m_anthem|DLC - Mack Anthem"
+ dependencies[9]: "dlc|ats_nevada|DLC - Nevada"
+ dependencies[10]: "dlc|ats_nwmexico|DLC - New Mexico"
+ dependencies[11]: "dlc|ats_oregon|DLC - Oregon"
+ dependencies[12]: "dlc|ats_pb_389|DLC - Peterbilt 389"
+ dependencies[13]: "dlc|ats_pb_579|DLC - Peterbilt 579"
+ dependencies[14]: "dlc|ats_volvo_vnl|DLC - Volvo VNL"
+ dependencies[15]: "dlc|ats_ws_49x|DLC - Western Star 49X"
+ info_players_experience: 147500
+ info_unlocked_recruitments: 0
+ info_unlocked_dealers: 7
+ info_visited_cities: 51
+ info_money_account: 100000000
+ info_explored_ratio: 0
 }
 
 }
