@@ -1,19 +1,20 @@
 SiiNunit
 {
-save_container : _nameless.1de.1431.4310 {
+save_container : _nameless.138.d213.61e0 {
  name: "Savegame for Base Map"
  time: 608
- file_time: 1648408994
- version: 61
+ file_time: 1686781109
+ version: 68
  info_version: 1
- dependencies: 1
+ dependencies: 2
  dependencies[0]: "dlc|eut2_daf_21|DLC - DAF 2021"
+ dependencies[1]: "dlc|eut2_man_tgx|DLC - MAN TGX 2020"
  info_players_experience: 140500
  info_unlocked_recruitments: 0
  info_unlocked_dealers: 7
  info_visited_cities: 80
- info_money_account: 99752155
- info_explored_ratio: 0
+ info_money_account: 100000000
+ info_explored_ratio: &35963a18
 }
 
 }

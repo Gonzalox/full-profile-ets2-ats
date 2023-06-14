@@ -1,6 +1,6 @@
 SiiNunit
 {
-user_profile : _nameless.206.18f4.9020 {
+user_profile : _nameless.209.68d6.dbb0 {
  face: 90
  brand: peterbilt_579
  map_path: "/map/usa.mbd"
@@ -14,15 +14,15 @@ user_profile : _nameless.206.18f4.9020 {
  user_data[1]: ""
  user_data[2]: ""
  user_data[3]: ""
- user_data[4]: "0.000001"
+ user_data[4]: "0.000003"
  user_data[5]: 1
- user_data[6]: 11
+ user_data[6]: 14
  user_data[7]: 0
  user_data[8]: 16
  user_data[9]: 21
  user_data[10]: 4
  user_data[11]: "intnational.lonestar"
- user_data[12]: "intnational.lonestar:1,peterbilt.579:1,peterbilt.389:1,volvo.vnl:1,kenworth.w900:1,kenworth.t680:1,mack.anthem:1,westernstar.49x:1,freightliner.cascadia2019:1,intnational.lt:1,intnational.9900i:1"
+ user_data[12]: "intnational.lonestar:1,peterbilt.579:1,peterbilt.389:1,volvo.vnl:1,kenworth.w900:1,kenworth.t680:1,mack.anthem:1,westernstar.49x:1,freightliner.cascadia2019:1,intnational.lt:1,intnational.9900i:1,westernstar.57x:1,westernstar.5700xe:1,volvo.vnl2018:1"
  user_data[13]: ""
  user_data[14]: 0
  user_data[15]: ""
@@ -856,7 +856,7 @@ user_profile : _nameless.206.18f4.9020 {
  online_password: ""
  profile_name: "My Profile"
  creation_time: 1578584522
- save_time: 1648407899
+ save_time: 1686781993
 }
 
 }

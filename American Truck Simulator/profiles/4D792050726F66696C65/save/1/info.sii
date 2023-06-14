@@ -1,12 +1,12 @@
 SiiNunit
 {
-save_container : _nameless.1a7.2d52.6f40 {
+save_container : _nameless.20a.0cc6.6e40 {
  name: "Savegame for Base Map"
  time: 621
- file_time: 1648407747
- version: 61
+ file_time: 1686781989
+ version: 68
  info_version: 1
- dependencies: 13
+ dependencies: 16
  dependencies[0]: "dlc|ats_arizona|DLC - Arizona"
  dependencies[1]: "dlc|ats_fr_c19|DLC - Freightliner Cascadia"
  dependencies[2]: "dlc|ats_int_990i|DLC - International 9900i"
@@ -18,14 +18,17 @@ save_container : _nameless.1a7.2d52.6f40 {
  dependencies[8]: "dlc|ats_nevada|DLC - Nevada"
  dependencies[9]: "dlc|ats_pb_389|DLC - Peterbilt 389"
  dependencies[10]: "dlc|ats_pb_579|DLC - Peterbilt 579"
- dependencies[11]: "dlc|ats_volvo_vnl|DLC - Volvo VNL"
- dependencies[12]: "dlc|ats_ws_49x|DLC - Western Star 49X"
+ dependencies[11]: "dlc|ats_volvo_vnl|DLC - Volvo VNL 2014"
+ dependencies[12]: "dlc|ats_v_vnl2018|DLC - Volvo VNL"
+ dependencies[13]: "dlc|ats_ws_49x|DLC - Western Star 49X"
+ dependencies[14]: "dlc|ats_ws_5700xe|DLC - Western Star 5700XE"
+ dependencies[15]: "dlc|ats_ws_57x|DLC - Western Star 57X"
  info_players_experience: 147500
  info_unlocked_recruitments: 0
  info_unlocked_dealers: 7
  info_visited_cities: 51
- info_money_account: 98985733
- info_explored_ratio: &3721c5ee
+ info_money_account: 100000000
+ info_explored_ratio: &3666b2d3
 }
 
 }

@@ -9,47 +9,22 @@ Premade savegame for Euro Truck Simulator 2 and American Truck Simulator includi
 * All cities discovered.
 * TruckersMP-ready.
 ## How to use
-Go to your game "profiles" folder which by default in Windows is located at
+First, open your "profiles" folder which by default in Windows is located at
 * **ETS2**:  This PC -> Documents -> **Euro Truck Simulator 2** -> profiles
 * **ATS**: This PC -> Documents -> **American Truck Simulator** -> profiles
 
-Download the lastest release from here: https://github.com/Gonzalox/full-profile-ets2-ats/archive/refs/heads/master.zip
+Next, download and open this archive: https://github.com/Gonzalox/full-profile-ets2-ats/archive/refs/heads/master.zip
 
 In the file you downloaded there will be the folder "**4D792050726F66696C65**"
-* Euro Truck Simulator 2\profiles\4D792050726F66696C65
-* American Truck Simulator\profiles\4D792050726F66696C65
+* Euro Truck Simulator 2\profiles\ **4D792050726F66696C65**
+* American Truck Simulator\profiles\ **4D792050726F66696C65**
 
-Drag **4D792050726F66696C65** to your local profiles folder (depending on the game that corresponds) and you're all set!
+Select and drag the folder **4D792050726F66696C65** to your local profiles folder (depending on the game that corresponds) and you're all set!
 
 ![Demo](https://i.imgur.com/mzIVuEa.gif)
 
 Then run the game, there you select the "**My Profile**" profile. You will see the next savegame selection (if not please select **Save & Load** -> **Load Game** on the menu after completing the profile setup steps.):
 
-If you only have the basegame (NO DLC Maps) select **Savegame for Base Map**
-
 ![Savegame for Basegame](https://i.imgur.com/mDjaEmT.png)
-
-If you have all the DLCs mentioned in the list below select **Savegame for DLC Maps**
-
-* [Euro Truck Simulator 2 - Going East!](https://store.steampowered.com/app/227310/Euro_Truck_Simulator_2__Going_East)
-* [Euro Truck Simulator 2 - Scandinavia](https://store.steampowered.com/app/304212/Euro_Truck_Simulator_2__Scandinavia)
-* [Euro Truck Simulator 2 - Vive la France !](https://store.steampowered.com/app/531130/Euro_Truck_Simulator_2__Vive_la_France)
-* [Euro Truck Simulator 2 - Italia](https://store.steampowered.com/app/558244/Euro_Truck_Simulator_2__Italia)
-* [Euro Truck Simulator 2 - Beyond the Baltic Sea](https://store.steampowered.com/app/925580/Euro_Truck_Simulator_2__Beyond_the_Baltic_Sea)
-* [American Truck Simulator - New Mexico](https://store.steampowered.com/app/684630/American_Truck_Simulator__New_Mexico)
-* [American Truck Simulator - Oregon](https://store.steampowered.com/app/800370/American_Truck_Simulator__Oregon)
-* [American Truck Simulator - Idaho](https://store.steampowered.com/app/1209470/American_Truck_Simulator__Idaho)
-
-![Savegame for DLC Maps](https://i.imgur.com/NMoHpwQ.png)
-
-## Why aren't all the map DLC included?
-Unfortunately I have not been able to buy all of them, for that reason the maps indicated below are not included in the "Savegame for DLC Maps":
-* [Euro Truck Simulator 2 - Road to the Black Sea](https://store.steampowered.com/app/1056760/Euro_Truck_Simulator_2__Road_to_the_Black_Sea)
-* [Euro Truck Simulator 2 - Iberia](https://store.steampowered.com/app/1209460/Euro_Truck_Simulator_2__Iberia)
-* [Euro Truck Simulator 2 - Heart of Russia](https://store.steampowered.com/app/1536500/Euro_Truck_Simulator_2__Heart_of_Russia)
-* [American Truck Simulator - Washington](https://store.steampowered.com/app/1015160/American_Truck_Simulator__Washington)
-* [American Truck Simulator - Utah](https://store.steampowered.com/app/1104880/American_Truck_Simulator__Utah)
-* [American Truck Simulator - Colorado](https://store.steampowered.com/app/1209471/American_Truck_Simulator__Colorado)
-* [American Truck Simulator - Wyoming](https://store.steampowered.com/app/1415692/American_Truck_Simulator__Wyoming)
-* [American Truck Simulator - Texas](https://store.steampowered.com/app/1465750/American_Truck_Simulator__Texas)
-* [American Truck Simulator - Montana](https://store.steampowered.com/app/1811080/American_Truck_Simulator__Montana)
+## What about the DLC cities?
+Unfortunately I don't have enough financial resources to buy all the DLC and because of that I can't keep a save that includes those cities up to date.
