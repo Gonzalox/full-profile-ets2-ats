@@ -1,16 +1,17 @@
 SiiNunit
 {
-save_container : _nameless.1f5.28d5.8b20 {
+save_container : _nameless.234.deee.e330 {
  name: "Savegame for Base Map"
  time: 608
- file_time: 1717094871
- version: 79
+ file_time: 1719937672
+ version: 80
  info_version: 1
- dependencies: 4
+ dependencies: 5
  dependencies[0]: "dlc|eut2_daf_21|DLC - DAF 2021"
  dependencies[1]: "dlc|eut2_daf_xd|DLC - DAF XD"
  dependencies[2]: "dlc|eut2_man_tgx|DLC - MAN TGX 2020"
  dependencies[3]: "rdlc|eut2_retecht|DLC - Renault Trucks E-Tech T"
+ dependencies[4]: "dlc|eut2_scans24e|DLC - Scania S 2024E"
  info_players_experience: 140500
  info_unlocked_recruitments: 0
  info_unlocked_dealers: 7
