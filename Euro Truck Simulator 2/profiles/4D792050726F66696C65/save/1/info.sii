@@ -1,23 +1,26 @@
 SiiNunit
 {
-save_container : _nameless.234.deee.e330 {
+save_container : _nameless.271.1227.d330 {
  name: "Savegame for Base Map"
  time: 608
- file_time: 1719937672
- version: 80
+ file_time: 1741722366
+ version: 85
  info_version: 1
- dependencies: 5
- dependencies[0]: "dlc|eut2_daf_21|DLC - DAF 2021"
+ dependencies: 8
+ dependencies[0]: "dlc|eut2_daf_21|DLC - DAF NGD"
  dependencies[1]: "dlc|eut2_daf_xd|DLC - DAF XD"
- dependencies[2]: "dlc|eut2_man_tgx|DLC - MAN TGX 2020"
- dependencies[3]: "rdlc|eut2_retecht|DLC - Renault Trucks E-Tech T"
- dependencies[4]: "dlc|eut2_scans24e|DLC - Scania S 2024E"
+ dependencies[2]: "dlc|eut2_ivc_sway|DLC - Iveco S-Way"
+ dependencies[3]: "dlc|eut2_man_tgx|DLC - MAN TGX 2020"
+ dependencies[4]: "dlc|eut2_retecht|DLC - Renault Trucks E-Tech T"
+ dependencies[5]: "dlc|eut2_scans24e|DLC - Scania S 2024E"
+ dependencies[6]: "dlc|eut2_vlvfh5|DLC - Volvo FH Series 5"
+ dependencies[7]: "dlc|eut2_vlvfh6|DLC - Volvo FH Series 6"
  info_players_experience: 140500
  info_unlocked_recruitments: 0
  info_unlocked_dealers: 7
  info_visited_cities: 80
  info_money_account: 100000000
- info_explored_ratio: &360d4f45
+ info_explored_ratio: &360a1f91
 }
 
 }
