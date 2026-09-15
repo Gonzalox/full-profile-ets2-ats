@@ -1,12 +1,12 @@
 SiiNunit
 {
-save_container : _nameless.1f9.3708.6870 {
+save_container : _nameless.1da.2918.c690 {
  name: "Savegame for Base Map"
  time: 622
- file_time: 1741721585
- version: 85
+ file_time: 1789433388
+ version: 95
  info_version: 1
- dependencies: 19
+ dependencies: 21
  dependencies[0]: "dlc|ats_arizona|DLC - Arizona"
  dependencies[1]: "dlc|ats_fr_c19|DLC - Freightliner Cascadia"
  dependencies[2]: "dlc|ats_fr_c24|DLC - Freightliner Cascadia\xc2\xae (5th Generation)"
@@ -22,16 +22,18 @@ save_container : _nameless.1f9.3708.6870 {
  dependencies[12]: "dlc|ats_pb_389|DLC - Peterbilt 389"
  dependencies[13]: "dlc|ats_pb_579|DLC - Peterbilt 579"
  dependencies[14]: "dlc|ats_volvo_vnl|DLC - Volvo VNL 2014"
- dependencies[15]: "dlc|ats_v_vnl2018|DLC - Volvo VNL"
- dependencies[16]: "dlc|ats_ws_49x|DLC - Western Star 49X"
- dependencies[17]: "dlc|ats_ws_5700xe|DLC - Western Star 5700XE"
- dependencies[18]: "dlc|ats_ws_57x|DLC - Western Star 57X"
+ dependencies[15]: "dlc|ats_v_vnl2018|DLC - Volvo VNL 2018"
+ dependencies[16]: "dlc|ats_v_vnl25|DLC - Volvo VNL"
+ dependencies[17]: "dlc|ats_v_vnr_e|DLC - Volvo VNR Electric"
+ dependencies[18]: "dlc|ats_ws_49x|DLC - Western Star 49X"
+ dependencies[19]: "dlc|ats_ws_5700xe|DLC - Western Star 5700XE"
+ dependencies[20]: "dlc|ats_ws_57x|DLC - Western Star 57X"
  info_players_experience: 147500
  info_unlocked_recruitments: 0
  info_unlocked_dealers: 7
  info_visited_cities: 51
  info_money_account: 100000000
- info_explored_ratio: &3658d695
+ info_explored_ratio: &3650f9b0
 }
 
 }
